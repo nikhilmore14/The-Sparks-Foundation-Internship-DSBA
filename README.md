@@ -4,7 +4,7 @@
 ● Data can be found at http://bit.ly/w-data                 
 ● Predict score when a student studies for 9.25 hrs/day.   
 
-**** Task 3 ****
+**** Task 3 ****            
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’               
 ● As a business manager, try to find out the weak areas where you can            
 work to make more profit.              
